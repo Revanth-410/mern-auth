@@ -62,7 +62,7 @@ const EmailVerify = () => {
   }, [isLoggedIn, userData]);
 
   return (
-    <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-blue-200 to-purple-400s">
+    <div className="flex items-center justify-center min-h-screen bg-gradient-to-br from-blue-200 to-purple-400">
       <img
         src={assets.logo}
         alt=""
